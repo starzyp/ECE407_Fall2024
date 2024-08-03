@@ -3,7 +3,7 @@
 - **Location**: ECEB 1013
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
 - **Office Hour**: TBD, CSL 468
-- **TA**: 
+- **TA**: Mehul Oswal, mehuljo2@illinois.edu
 - **TA Office Hour**: TBD
 
 ## Course Description
@@ -16,7 +16,7 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 
 ## Textbook
 
-**Introduction to Modern Cryptography, 3rd edition, Jonathan Katz’s and and Yehuda Lindell.**
+**Introduction to Modern Cryptography, 3rd edition, Jonathan Katz and and Yehuda Lindell.**
 
 Additional references:
 - Mike Rosulek’s [The Joy of Cryptography](https://joyofcryptography.com/) is an excellent, albeit unfinished, free resource.
@@ -49,10 +49,12 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
 
 - **Collaboration.** Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
 
-**Final Exam:** 40%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
+**Midterm Exam:** 20%. It will be a combination of multiple choice and free response problems. **8:00-11:00 a.m., Monday, May 6**
+
+**Final Exam:** 20%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
 **8:00-11:00 a.m., Monday, May 6**
 
-**(4 credit hours only) Final project:** 20%. In teams of 2, you will read papers in the cryptography literature, then write a long-form review. Come talk to me about potential topics. (If you are registered for four credit hours, your final grade will be out of 120, and it will be normalized to out of 100.)
+**(4 credit hours only) Project and presentation:** 20%. In teams of 2, you will read papers on advanced topics in the cryptography literature, and give presentations during the lectures. Come talk to me about potential topics. (If you are registered for four credit hours, your final grade will be out of 120, and it will be normalized to out of 100.)
 
 **Grading:** [93-100] A, [90-92] A-, [87-89] B+, [83-86] B, [80-82] B-, [77-79] C+, [73-76] C, [70-72] C-, [67-69] D+, [63-66] D, [60-62] D-, [0-59] F.
 
