@@ -49,10 +49,10 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
 
 - **Collaboration.** Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
 
-**Midterm Exam:** 20%. It will be a combination of multiple choice and free response problems. **8:00-11:00 a.m., Monday, May 6**
+**Midterm Exam:** 20%. It will be a combination of multiple choice and free response problems. **5:00-6:20pm, Tuesday, October 15, in class**
 
 **Final Exam:** 20%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
-**8:00-11:00 a.m., Monday, May 6**
+**1:30-3:30 pm, Wednesday, December 18**
 
 **(4 credit hours only) Project and presentation:** 20%. In teams of 2, you will read papers on advanced topics in the cryptography literature, and give presentations during the lectures. Come talk to me about potential topics. (If you are registered for four credit hours, your final grade will be out of 120, and it will be normalized to out of 100.)
 
@@ -69,239 +69,170 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
     </tr>
     <tr>
         <th rowspan="2">Week 1</th>
-        <th>1/17</th>
+        <th>8/27</th>
         <th>Introduction and background on Cryptography</th>
         <th></th>
     </tr>
      <tr>
-        <th>1/19</th>
+        <th>8/29</th>
         <th>Ancient ciphers</th>
         <th>Chapter 1.1-1.3, Introduction to Morden Cryptography</th>
     </tr>
     <tr>
-        <th rowspan="3">Week 2</th>
-        <th>1/22</th>
+        <th rowspan="2">Week 2</th>
+        <th>9/3</th>
         <th>Perfect secrecy, one-time pad</th>
         <th>Chapter 1.4, 2</th>
     </tr>
     <tr>
-        <th>1/24</th>
-        <th>Computational Security</th>
-        <th>Chapter 3.1,3.2</th>
+        <th>9/5</th>
+        <th>Computational Security, Pseudorandomness</th>
+        <th>Chapter 3.1-3.3</th>
     </tr>
     <tr>
-        <th>1/26</th>
-        <th>Pseudorandomness</th>
-        <th>Chapter 3.3</th>
-    </tr>
-    <tr>
-        <th rowspan="3">Week 3</th>
-        <th>1/29</th>
+        <th rowspan="2">Week 3</th>
+        <th>9/10</th>
         <th>Chosen plaintext attack, stream cipher</th>
         <th>Chapter 3.4, 3.6, 7.1</th>
     </tr>
     <tr>
-        <th>1/31</th>
+        <th>9/12</th>
         <th>Pseudorandom Function and Block cipher</th>
         <th>Chapter 3.5</th>
     </tr>
     <tr>
-        <th>2/2</th>
+        <th rowspan="2">Week 4</th>
+        <th>9/17</th>
         <th>DES and AES</th>
         <th>Chapter 7.2</th>
     </tr>
     <tr>
-        <th rowspan="3">Week 4</th>
-        <th>2/5</th>
+        <th>9/19</th>
         <th>Modes of Operation</th>
         <th>Chapter 3.6</th>
     </tr>
     <tr>
-        <th>2/7</th>
-        <th>Modes of Operation</th>
-        <th>Chapter 3.6</th>
-    </tr>
-    <tr>
-        <th>2/9</th>
+        <th rowspan="2">Week 5</th>
+        <th>9/24</th>
         <th>Padding oracle attacks</th>
         <th>Chapter 5.1</th>
     </tr>
     <tr>
-        <th rowspan="3">Week 5</th>
-        <th>2/12</th>
+        <th>9/26</th>
         <th>Message Authentication Codes</th>
         <th>Chapter 4</th>
     </tr>
     <tr>
-        <th>2/14</th>
+        <th rowspan="2">Week 6</th>
+        <th>10/1</th>
         <th>CCA security</th>
         <th>Chapter 5.1.2</th>
     </tr>
     <tr>
-        <th>2/16</th>
+        <th>10/3</th>
         <th>Authenticated Encryption</th>
         <th>Chapter 5.2-5.3</th>
     </tr>
     <tr>
-        <th rowspan="3">Week 6</th>
-        <th>2/19</th>
-        <th>Hash functions</th>
+        <th rowspan="2">Week 7</th>
+        <th>10/8</th>
+        <th>Cryptographic Hash functions</th>
         <th>Chapter 6.1, 6.4</th>
     </tr>
     <tr>
-        <th>2/21</th>
-        <th>Merkle hash tree</th>
-        <th>Chapter 6.6</th>
+        <th>10/10</th>
+        <th>SHA256, Merkle hash tree, HMAC</th>
+        <th>Chapter 6.2,6.3, 6.6</th>
     </tr>
     <tr>
-        <th>2/23</th>
-        <th>HMAC</th>
-        <th>Chapter 6.2-6.3</th>
+        <th rowspan="2">Week 8</th>
+        <th> 10/15 </th>
+        <th><b>Midterm Exam</b></th>
+        <th></th>
     </tr>
     <tr>
-        <th rowspan="3">Week 7</th>
-        <th> 2/26 </th>
+        <th>10/17</th>
         <th>Number Theory</th>
         <th>Chapter 9.1, 9.3</th>
     </tr>
     <tr>
-        <th>2/28</th>
+        <th rowspan="2">Week 9</th>
+        <th> 10/22 </th>
         <th>Diffie-Hellman key exchange</th>
         <th>Chapter 11.3, 12.4</th>
     </tr>
     <tr>
-        <th>3/1</th>
-        <th>ElGamal encryption</th>
+        <th>10/24</th>
+        <th>Public key encryption, ElGamal encryption</th>
         <th>Chapter 9.4, 12.3</th>
     </tr>
     <tr>
-        <th rowspan="3">Week 8</th>
-        <th>3/4</th>
-        <th>Factoring assumptions</th>
-        <th>Chapter 9.2</th>
+        <th rowspan="2">Week 10</th>
+        <th> 10/29 </th>
+        <th>Factoring assumptions and RSA encryption</th>
+        <th>Chapter 9.2, Chapter 12.5</th>
     </tr>
     <tr>
-        <th>3/6</th>
-        <th>RSA encryptions</th>
-        <th>Chapter 12.5</th>
+        <th>10/31</th>
+        <th>Random Oracle</th>
+        <th>Chapter 6.5</th>
     </tr>
     <tr>
-        <th>3/8</th>
-        <th>Class canceled due to travelling</th>
-        <th></th>
-    </tr>
-    <tr>
-        <th>Week 9 3/11</th>
-        <th></th>
-        <th>Spring Break No Class</th>
-        <th></th>
-    </tr>
-    <tr>
-        <th rowspan="3">Week 10</th>
-        <th>3/18</th>
+        <th rowspan="2">Week 11</th>
+        <th>11/5</th>
         <th>RSA with CCA security</th>
         <th>Chapter 12.5</th>
     </tr>
     <tr>
-        <th>3/20</th>
-        <th>Random Oracle and Digital Signature</th>
-        <th>Chapter 6.5, 13.1-13.2</th>
+        <th>11/7</th>
+        <th>Digital Signature and RSA Signature</th>
+        <th>Chapter 13.1-13.4</th>
     </tr>
     <tr>
-        <th>3/22</th>
-        <th>RSA Signature</th>
-        <th>Chapter 13.3, 13.4</th>
-    </tr>
-    <tr>
-        <th rowspan="3">Week 11</th>
-        <th>3/25</th>
-        <th>Schnorr Signature</th>
-        <th>Chapter 13.5</th>
-    </tr>   
-    <tr>
-        <th>3/27</th>
-        <th>DSA Signature and PKI</th>
+        <th rowspan="2">Week 12</th>
+        <th>11/12</th>
+        <th>Schnorr Signature, DSA Signatureand PKI</th>
         <th>Chapter 13.5, 13.6</th>
     </tr>
     <tr>
-        <th>3/29</th>
+        <th>11/14</th>
         <th>Elliptic curve</th>
         <th>Chapter 9.3.4</th>
     </tr>
     <tr>
-        <th rowspan="3">Week 12</th>
-        <th>4/1</th>
+        <th rowspan="2">Week 13</th>
+        <th>11/19</th>
         <th>Bilinear pairing and BLS signature</th>
         <th>Chapter 15.4 and 15.5 in A Graduate Course in Applied Cryptography</th>
-    </tr>
+    </tr>   
     <tr>
-        <th>4/3</th>
-        <th>Commitment scheme</th>
-        <th>Chapter 6.6.5, Introduction to Morden Cryptography</th>
-    </tr>
-    <tr>
-        <th>4/5</th>
-        <th>Sigma protocols</th>
-        <th>Chapter 19.4 and 19.5 in A Graduate Course in Applied Cryptography</th>
-    </tr>
-    <tr>
-        <th rowspan="3">Week 13</th>
-        <th>4/8</th>
-        <th>Blockchain and cryptocurrencies</th>
+        <th>11/21</th>
+        <th>No class due to travelling</th>
         <th></th>
     </tr>
     <tr>
-        <th>4/10</th>
-        <th>Smart contract</th>
+        <th>Week 14</th>
+        <th></th>
+        <th>Fall Break No Class</th>
         <th></th>
     </tr>
     <tr>
-        <th>4/12</th>
-        <th>Zero-knowledge proof and its applications in blockchain</th>
+    <th rowspan="2">Week 15</th>
+        <th>12/3</th>
+        <th>Advanced Topics/Project presentation</th>
         <th></th>
     </tr>
     <tr>
-        <th rowspan="3">Week 14</th>
-        <th>4/15</th>
-        <th>Privacy-preserving cryptocurrencies and zkRollup</th>
-        <th><a href="http://zerocash-project.org/paper">Zcash</a></th>
+        <th>12/5</th>
+        <th>Advanced Topics/Project presentation</th>
+        <th></th>
     </tr>
     <tr>
-        <th>4/17</th>
-        <th>Polynomial commitments</th>
-        <th><a href="https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf">KZG polynomial commitment</a></th>
-    </tr>
-    <tr>
-        <th>4/19</th>
-        <th>Sumcheck protocol</th>
-        <th><a href="https://dl.acm.org/doi/pdf/10.1145/146585.146605">sumcheck</a></th>
-    </tr>
-    <tr>
-        <th rowspan="3">Week 15</th>
-        <th>4/22</th>
-        <th>GKR protocol</th>
-        <th><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/2008-DelegatingComputation.pdf">GKR</a></th>
-    </tr>
-    <tr>
-        <th>4/24</th>
-        <th>Secure Multiparty Computation: Oblivious Transfer</th>
-        <th>Chapter 11.6.1 in A Graduate Course in Applied Cryptography</th>
-    </tr>
-    <tr>
-        <th>4/26</th>
-        <th>Garbled circuits</th>
-        <th>Chapter 23.3 in A Graduate Course in Applied Cryptography</th>
-    </tr>
-    <tr>
-        <th rowspan="2">Week 16</th>
-        <th>4/29</th>
-        <th>GMW protocol</th>
-        <th>Chapter 23.2 in A Graduate Course in Applied Cryptography</th>
-    </tr>
-    <tr>
-        <th>5/1</th>
+        <th>Week 16</th>
+        <th>12/10</th>
         <th>Review session</th>
         <th></th>
+    </tr>
     </tr>
 </table>
 
