@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: "ECE/CS 407: Cryptography"
+description: Fall 2024
+github:
+  show_downloads: false
+  is_project_page: false
