@@ -217,7 +217,7 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
         <th></th>
     </tr>
     <tr>
-    <th rowspan="2">Week 15</th>
+        <th rowspan="2">Week 15</th>
         <th>12/3</th>
         <th>Advanced Topics/Project presentation</th>
         <th></th>
@@ -232,7 +232,6 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
         <th>12/10</th>
         <th>Review session</th>
         <th></th>
-    </tr>
     </tr>
 </table>
 
