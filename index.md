@@ -1,12 +1,12 @@
 ## Course Information
-- **Lectures**: MWF 3:00 pm - 3:50 pm
-- **Location**: ECEB 2013
+- **Lectures**: TuTh 5:00 pm - 6:20 pm
+- **Location**: ECEB 1013
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
-- **Office Hour**: Wednesdays 12-1pm, CSL 468
-- **TA**: [Sourav Das](https://sourav1547.github.io/) souravd2@illinois.edu
-- **TA Office Hour**: Thursdays 4-5pm, Siebel Center 2124
+- **Office Hour**: TBD, CSL 468
+- **TA**: 
+- **TA Office Hour**: TBD
 
-## Course Description and Prerequisites
+## Course Description
 
 Cryptography uses mathematical algorithms and protocols to ensure the confidentiality, integrity, and authenticity of information. Today, cryptographic principles and systems form an integral part of almost all online activity. This course is an introduction to the fundamentals of modern cryptography. You will learn about cryptograhy’s formal approach to security. You will learn about cryptographic primitives, and you will learn how those primitives can be used.
 
@@ -14,28 +14,38 @@ This webpage serves as the course syllabus, and it will be edited throughout the
 
 
 
-## Textbooks (optional)
+## Textbook
 
+**Introduction to Modern Cryptography, 3rd edition, Jonathan Katz’s and and Yehuda Lindell.**
+
+Additional references:
 - Mike Rosulek’s [The Joy of Cryptography](https://joyofcryptography.com/) is an excellent, albeit unfinished, free resource.
 
-- Jonathan Katz’s and and Yehuda Lindell’s “Introduction to Modern Cryptography” is a more complete reference.
-
 - Dan Boneh’s and Victor Shoup’s [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/) is an additional resource.
+
+## Prerequisites
+The following courses are required:
+
+- CS 225: Introduction to Data Structures and Algorithms
+
+- CS/ECE 374: Introduction to Algorithms and Models of Computation
+
+Prerequisite overrides will be considered on a case-by-case basis. We expect that you are familiar with basic probability, modular arithmetic, and logarithms. Take the time to read [chapter 0](https://joyofcryptography.com/pdf/chap0.pdf) of The Joy of Cryptography and make sure you understand the concepts within.
 
 ## Links
 
 **Slides and files**: [https://canvas.illinois.edu/](https://canvas.illinois.edu/)
 
-**Assignments and Gradebook:**: [https://www.gradescope.com/](https://www.gradescope.com/)
+**Assignment submission and Grading:** [https://www.gradescope.com/](https://www.gradescope.com/)
 
-**Piazza:** [https://piazza.com/](https://piazza.com/class/lrb8tpmh6cv2hl/)
+**Annoucements and discussions: Piazza** [https://piazza.com/](https://piazza.com/class/lrb8tpmh6cv2hl/)
 
 ## Grading
-**Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to three lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
+**Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to 2 lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
 
-**Homework:** 50%. The course will include four homework assignments. Each homework will include careful instructions. Homework problems will include (1) long-form problem write-ups and proofs as well as (2) C++ programming assignments. For programming assignments, follow instructions carefully to receive full credit.
+**Homework:** 50%. The course will include **five** homework assignments. Each homework will include careful instructions. Homework problems will include (1) long-form problem write-ups and proofs as well as (2) C++ programming assignments. For programming assignments, follow instructions carefully to receive full credit.
 
-Homeworks are to be submitted via Gradescope. Late homework will not be accepted without valid excuses and approval of the instructor
+Homeworks are to be submitted via Gradescope. Late homework will not be accepted without valid excuses and approval of the instructor.
 
 - **Collaboration.** Homeworks are to be submitted individually. However, you may collaborate with up to one other student on homework assignments. On each homework submission, declare your collaborator (if any). In your collaboration you are expected to discuss the homework, not merely copy answers. Plagiarism will not be tolerated (see Academic Integrity).
 
