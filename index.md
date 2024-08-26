@@ -2,7 +2,7 @@
 - **Lectures**: TuTh 5:00 pm - 6:20 pm
 - **Location**: ECEB 1013
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
-- **Office Hour**: TBD, CSL 468
+- **Office Hour**: Wednesday 3:00 - 4:00pm, CSL 468
 - **TA**: Mehul Oswal, mehuljo2@illinois.edu
 - **TA Office Hour**: TBD
 
@@ -38,7 +38,7 @@ Prerequisite overrides will be considered on a case-by-case basis. We expect tha
 
 **Assignment submission and Grading:** [https://www.gradescope.com/](https://www.gradescope.com/)
 
-**Annoucements and discussions: Piazza** [https://piazza.com/](https://piazza.com/class/lrb8tpmh6cv2hl/)
+**Annoucements and discussions: Piazza** [https://piazza.com/class/m0bh0wniqb54o3](https://piazza.com/class/m0bh0wniqb54o3)
 
 ## Grading
 **Class Participation:** 10%.  Please show up to class, and participate in discussions in class and on Piazza. We will sometimes take formal attendance in class. You can miss up to 2 lectures without excuse; after that, each unexcused absence will deduct of your participation grade.
@@ -52,9 +52,9 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
 **Midterm Exam:** 20%. It will be a combination of multiple choice and free response problems. **5:00-6:20pm, Tuesday, October 15, in class**
 
 **Final Exam:** 20%. The final exam will be a cumulative test on all course topics. It will be a combination of multiple choice and free response problems.
-**1:30-3:30 pm, Wednesday, December 18**
 
-**(4 credit hours only) Project and presentation:** 20%. In teams of 2, you will read papers on advanced topics in the cryptography literature, and give presentations during the lectures. Come talk to me about potential topics. (If you are registered for four credit hours, your final grade will be out of 120, and it will be normalized to out of 100.)
+
+**(4 credit hours only) Project and presentation:** 20%. In teams of 2, you will read papers on advanced topics in the cryptography literature, and write a technical report. Come talk to me about potential topics. (If you are registered for four credit hours, your final grade will be out of 120, and it will be normalized to out of 100.)
 
 **Grading:** [93-100] A, [90-92] A-, [87-89] B+, [83-86] B, [80-82] B-, [77-79] C+, [73-76] C, [70-72] C-, [67-69] D+, [63-66] D, [60-62] D-, [0-59] F.
 
@@ -219,12 +219,12 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
     <tr>
         <th rowspan="2">Week 15</th>
         <th>12/3</th>
-        <th>Advanced Topics/Project presentation</th>
+        <th>Advanced Topics</th>
         <th></th>
     </tr>
     <tr>
         <th>12/5</th>
-        <th>Advanced Topics/Project presentation</th>
+        <th>Advanced Topics</th>
         <th></th>
     </tr>
     <tr>
