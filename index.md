@@ -4,7 +4,7 @@
 - **Instructor**: Prof. [Yupeng Zhang](https://zhangyp.web.illinois.edu/) zhangyp@illinois.edu
 - **Office Hour**: Wednesday 3:00 - 4:00pm, CSL 468
 - **TA**: Mehul Oswal, mehuljo2@illinois.edu
-- **TA Office Hour**: TBD
+- **TA Office Hour**:  Friday, 4:00 – 5:00pm, CS Tutoring Center (Siebel Center Basement Open Area)
 
 ## Course Description
 
