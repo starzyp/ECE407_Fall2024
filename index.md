@@ -125,24 +125,24 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
     <tr>
         <th rowspan="2">Week 6</th>
         <th>10/1</th>
-        <th>CCA security</th>
-        <th>Chapter 5.1.2</th>
+        <th>CCA security and Authenticated Encryption</th>
+        <th>Chapter 5.1.2, 5.2-5.3</th>
     </tr>
     <tr>
         <th>10/3</th>
-        <th>Authenticated Encryption</th>
-        <th>Chapter 5.2-5.3</th>
+        <th>Cryptographic Hash functions and SHA</th>
+        <th>Chapter 6.1, 6.4, 7.3</th>
     </tr>
     <tr>
         <th rowspan="2">Week 7</th>
         <th>10/8</th>
-        <th>Cryptographic Hash functions</th>
-        <th>Chapter 6.1, 6.4</th>
+        <th>Merkle-Damgard Transformation, Merkle hash tree</th>
+        <th>Chapter 6.2, 6.6.2</th>
     </tr>
     <tr>
         <th>10/10</th>
-        <th>SHA256, Merkle hash tree, HMAC</th>
-        <th>Chapter 6.2,6.3, 6.6</th>
+        <th>HMAC, Midterm review</th>
+        <th>Chapter 6.3</th>
     </tr>
     <tr>
         <th rowspan="2">Week 8</th>
