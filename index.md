@@ -13,7 +13,6 @@ Cryptography uses mathematical algorithms and protocols to ensure the confidenti
 This webpage serves as the course syllabus, and it will be edited throughout the semester to release resources.
 
 
-
 ## Textbook
 
 **Introduction to Modern Cryptography, 3rd edition, Jonathan Katz and and Yehuda Lindell.**
