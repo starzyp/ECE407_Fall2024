@@ -173,24 +173,24 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
     </tr>
     <tr>
         <th>10/31</th>
-        <th>Random Oracle</th>
-        <th>Chapter 6.5</th>
-    </tr>
-    <tr>
-        <th rowspan="2">Week 11</th>
-        <th>11/5</th>
         <th>RSA with CCA security</th>
         <th>Chapter 12.5</th>
     </tr>
     <tr>
+        <th rowspan="2">Week 11</th>
+        <th>11/5</th>
+        <th>Random Oracle, Digital Signature</th>
+        <th>Chapter 6.5</th>
+    </tr>
+    <tr>
         <th>11/7</th>
-        <th>Digital Signature and RSA Signature</th>
+        <th>RSA Signature</th>
         <th>Chapter 13.1-13.4</th>
     </tr>
     <tr>
         <th rowspan="2">Week 12</th>
         <th>11/12</th>
-        <th>Schnorr Signature, DSA Signatureand PKI</th>
+        <th>Schnorr Signature and PKI</th>
         <th>Chapter 13.5, 13.6</th>
     </tr>
     <tr>
@@ -218,18 +218,18 @@ Homeworks are to be submitted via Gradescope. Late homework will not be accepted
     <tr>
         <th rowspan="2">Week 15</th>
         <th>12/3</th>
-        <th>Advanced Topics</th>
+        <th>Blockchain and Cryptocurrency</th>
         <th></th>
     </tr>
     <tr>
         <th>12/5</th>
-        <th>Advanced Topics</th>
+        <th>Zero-knowledge proofs</th>
         <th></th>
     </tr>
     <tr>
         <th>Week 16</th>
         <th>12/10</th>
-        <th>Review session</th>
+        <th>Final Exam Review session</th>
         <th></th>
     </tr>
 </table>
